@@ -6,7 +6,7 @@ The code is divided into two parts. One part should be programmed onto an ESP32 
 
 The control panel enables the user to specify (draw) an arbitrary and hypothetical path on the ground using a mouse cursor and control the robot so that it automatically follows the specified path.
 
-### Different Layers of the System
+## Different Layers of the System
 
 1) Monitoring Layer: A Windows application plays the role of a control panel. This application can be used to monitor the camera view, robot's position, and orientation.
 
